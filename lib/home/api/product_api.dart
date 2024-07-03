@@ -1,0 +1,1 @@
+const String productAPI = "https://luonverak.github.io/fake_product/product.json?fbclid=IwAR2AeOrPGgFf8k8h8X4DSp2STJI0skmmIooPTyxSMBPm_jys3YmRieWJAeo";
